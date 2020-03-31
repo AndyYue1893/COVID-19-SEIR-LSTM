@@ -6,6 +6,6 @@
 SEIR and LSTM prediction of the epidemics trend of COVID-19.
 
 先上图
-![image](https://github.com/AndyYue1893/Novel-Coronavirus-Pneumonia-SEIR-LSTM/blob/master/SEIR——basic.png)
+![image](https://github.com/AndyYue1893/Novel-Coronavirus-Pneumonia-SEIR-LSTM/blob/master/SEIR_basic.png)
 ![image](https://github.com/AndyYue1893/Novel-Coronavirus-Pneumonia-SEIR-LSTM/blob/master/SEIR_20200123_Intervention.png)![image](https://github.com/AndyYue1893/Novel-Coronavirus-Pneumonia-SEIR-LSTM/blob/master/SEIR_20200202_Intervention.png)
 ![image](https://github.com/AndyYue1893/Novel-Coronavirus-Pneumonia-SEIR-LSTM/blob/master/NCP_active_predict.png)![image](https://github.com/AndyYue1893/Novel-Coronavirus-Pneumonia-SEIR-LSTM/blob/master/NCP_new_predict.png)![image](https://github.com/AndyYue1893/Novel-Coronavirus-Pneumonia-SEIR-LSTM/blob/master/NCP_cum_pred.png)
